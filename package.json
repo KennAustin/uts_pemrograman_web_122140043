@@ -2,7 +2,6 @@
   "name": "uts-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KennAustin.github.io/uts_pemrograman_web_122140043",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
